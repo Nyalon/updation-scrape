@@ -1,3 +1,3 @@
 # updation-scrape
-# Created scraper with beautiful soup, and splinter to scrape automotive data from..
+# Created with beautiful soup, and splinter to scrape automotive data.
 # https://www.drivingsales.com/dealership-vendors
